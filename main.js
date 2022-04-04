@@ -21,7 +21,7 @@ function add() {
 	greencar_imgTag.src=greencar_image;
 }
 
-function uploadBackground() {
+function uploadbackground() {
 	ctx.drawImage(background_imgTag, 0, 0, canvas.width, canvas.height);
 
 }
